@@ -1,0 +1,376 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\MiApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A425F195-EDB0-45D7-8759-CEA795B3EF33}|MiApp.csproj|e:\\miapp\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A425F195-EDB0-45D7-8759-CEA795B3EF33}|MiApp.csproj|solutionrelative:models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A425F195-EDB0-45D7-8759-CEA795B3EF33}|MiApp.csproj|e:\\miapp\\data\\basedatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A425F195-EDB0-45D7-8759-CEA795B3EF33}|MiApp.csproj|solutionrelative:data\\basedatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A425F195-EDB0-45D7-8759-CEA795B3EF33}|MiApp.csproj|e:\\miapp\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A425F195-EDB0-45D7-8759-CEA795B3EF33}|MiApp.csproj|solutionrelative:controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A425F195-EDB0-45D7-8759-CEA795B3EF33}|MiApp.csproj|e:\\miapp\\services\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A425F195-EDB0-45D7-8759-CEA795B3EF33}|MiApp.csproj|solutionrelative:services\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A425F195-EDB0-45D7-8759-CEA795B3EF33}|MiApp.csproj|e:\\miapp\\models\\compra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A425F195-EDB0-45D7-8759-CEA795B3EF33}|MiApp.csproj|solutionrelative:models\\compra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A425F195-EDB0-45D7-8759-CEA795B3EF33}|MiApp.csproj|e:\\miapp\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A425F195-EDB0-45D7-8759-CEA795B3EF33}|MiApp.csproj|solutionrelative:models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A425F195-EDB0-45D7-8759-CEA795B3EF33}|MiApp.csproj|e:\\miapp\\models\\bolsa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A425F195-EDB0-45D7-8759-CEA795B3EF33}|MiApp.csproj|solutionrelative:models\\bolsa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A425F195-EDB0-45D7-8759-CEA795B3EF33}|MiApp.csproj|e:\\miapp\\models\\compraproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A425F195-EDB0-45D7-8759-CEA795B3EF33}|MiApp.csproj|solutionrelative:models\\compraproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A425F195-EDB0-45D7-8759-CEA795B3EF33}|MiApp.csproj|e:\\miapp\\models\\bolsaproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A425F195-EDB0-45D7-8759-CEA795B3EF33}|MiApp.csproj|solutionrelative:models\\bolsaproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A425F195-EDB0-45D7-8759-CEA795B3EF33}|MiApp.csproj|e:\\miapp\\models\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A425F195-EDB0-45D7-8759-CEA795B3EF33}|MiApp.csproj|solutionrelative:models\\departamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A425F195-EDB0-45D7-8759-CEA795B3EF33}|MiApp.csproj|e:\\miapp\\appshell.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A425F195-EDB0-45D7-8759-CEA795B3EF33}|MiApp.csproj|solutionrelative:appshell.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\MiApp\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A425F195-EDB0-45D7-8759-CEA795B3EF33}|MiApp.csproj|e:\\miapp\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A425F195-EDB0-45D7-8759-CEA795B3EF33}|MiApp.csproj|solutionrelative:repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A425F195-EDB0-45D7-8759-CEA795B3EF33}|MiApp.csproj|e:\\miapp\\repositories\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A425F195-EDB0-45D7-8759-CEA795B3EF33}|MiApp.csproj|solutionrelative:repositories\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A425F195-EDB0-45D7-8759-CEA795B3EF33}|MiApp.csproj|e:\\miapp\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A425F195-EDB0-45D7-8759-CEA795B3EF33}|MiApp.csproj|solutionrelative:services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A425F195-EDB0-45D7-8759-CEA795B3EF33}|MiApp.csproj|e:\\miapp\\models\\departamentoventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A425F195-EDB0-45D7-8759-CEA795B3EF33}|MiApp.csproj|solutionrelative:models\\departamentoventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A425F195-EDB0-45D7-8759-CEA795B3EF33}|MiApp.csproj|e:\\miapp\\models\\detallepago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A425F195-EDB0-45D7-8759-CEA795B3EF33}|MiApp.csproj|solutionrelative:models\\detallepago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A425F195-EDB0-45D7-8759-CEA795B3EF33}|MiApp.csproj|e:\\miapp\\models\\tienda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A425F195-EDB0-45D7-8759-CEA795B3EF33}|MiApp.csproj|solutionrelative:models\\tienda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A425F195-EDB0-45D7-8759-CEA795B3EF33}|MiApp.csproj|e:\\miapp\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A425F195-EDB0-45D7-8759-CEA795B3EF33}|MiApp.csproj|solutionrelative:models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A425F195-EDB0-45D7-8759-CEA795B3EF33}|MiApp.csproj|e:\\miapp\\models\\provincia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A425F195-EDB0-45D7-8759-CEA795B3EF33}|MiApp.csproj|solutionrelative:models\\provincia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A425F195-EDB0-45D7-8759-CEA795B3EF33}|MiApp.csproj|e:\\miapp\\models\\distrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A425F195-EDB0-45D7-8759-CEA795B3EF33}|MiApp.csproj|solutionrelative:models\\distrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A425F195-EDB0-45D7-8759-CEA795B3EF33}|MiApp.csproj|e:\\miapp\\models\\despacho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A425F195-EDB0-45D7-8759-CEA795B3EF33}|MiApp.csproj|solutionrelative:models\\despacho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IUsuarioService.cs",
+              "DocumentMoniker": "E:\\MiApp\\Services\\IUsuarioService.cs",
+              "RelativeDocumentMoniker": "Services\\IUsuarioService.cs",
+              "ToolTip": "E:\\MiApp\\Services\\IUsuarioService.cs",
+              "RelativeToolTip": "Services\\IUsuarioService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T19:16:31.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BaseDatos.cs",
+              "DocumentMoniker": "E:\\MiApp\\Data\\BaseDatos.cs",
+              "RelativeDocumentMoniker": "Data\\BaseDatos.cs",
+              "ToolTip": "E:\\MiApp\\Data\\BaseDatos.cs",
+              "RelativeToolTip": "Data\\BaseDatos.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T19:16:20.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "E:\\MiApp\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LoginController.cs",
+              "ToolTip": "E:\\MiApp\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T19:15:08.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BolsaProducto.cs",
+              "DocumentMoniker": "E:\\MiApp\\Models\\BolsaProducto.cs",
+              "RelativeDocumentMoniker": "Models\\BolsaProducto.cs",
+              "ToolTip": "E:\\MiApp\\Models\\BolsaProducto.cs",
+              "RelativeToolTip": "Models\\BolsaProducto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T18:50:34.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Departamento.cs",
+              "DocumentMoniker": "E:\\MiApp\\Models\\Departamento.cs",
+              "RelativeDocumentMoniker": "Models\\Departamento.cs",
+              "ToolTip": "E:\\MiApp\\Models\\Departamento.cs",
+              "RelativeToolTip": "Models\\Departamento.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T17:55:34.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "E:\\MiApp\\AppShell.xaml",
+              "RelativeDocumentMoniker": "AppShell.xaml",
+              "ToolTip": "E:\\MiApp\\AppShell.xaml",
+              "RelativeToolTip": "AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-19T02:53:49.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Bolsa.cs",
+              "DocumentMoniker": "E:\\MiApp\\Models\\Bolsa.cs",
+              "RelativeDocumentMoniker": "Models\\Bolsa.cs",
+              "ToolTip": "E:\\MiApp\\Models\\Bolsa.cs",
+              "RelativeToolTip": "Models\\Bolsa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T18:46:42.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "E:\\MiApp\\Models\\Categoria.cs",
+              "RelativeDocumentMoniker": "Models\\Categoria.cs",
+              "ToolTip": "E:\\MiApp\\Models\\Categoria.cs",
+              "RelativeToolTip": "Models\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T18:43:25.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Compra.cs",
+              "DocumentMoniker": "E:\\MiApp\\Models\\Compra.cs",
+              "RelativeDocumentMoniker": "Models\\Compra.cs",
+              "ToolTip": "E:\\MiApp\\Models\\Compra.cs",
+              "RelativeToolTip": "Models\\Compra.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T18:14:38.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CompraProducto.cs",
+              "DocumentMoniker": "E:\\MiApp\\Models\\CompraProducto.cs",
+              "RelativeDocumentMoniker": "Models\\CompraProducto.cs",
+              "ToolTip": "E:\\MiApp\\Models\\CompraProducto.cs",
+              "RelativeToolTip": "Models\\CompraProducto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T18:29:01.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "E:\\MiApp\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "Models\\Producto.cs",
+              "ToolTip": "E:\\MiApp\\Models\\Producto.cs",
+              "RelativeToolTip": "Models\\Producto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T18:38:34.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "E:\\MiApp\\Services\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "Services\\UsuarioService.cs",
+              "ToolTip": "E:\\MiApp\\Services\\UsuarioService.cs",
+              "RelativeToolTip": "Services\\UsuarioService.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAmwCUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T19:16:41.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IUsuarioRepository.cs",
+              "DocumentMoniker": "E:\\MiApp\\Repositories\\IUsuarioRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IUsuarioRepository.cs",
+              "ToolTip": "E:\\MiApp\\Repositories\\IUsuarioRepository.cs",
+              "RelativeToolTip": "Repositories\\IUsuarioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T19:18:18.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UsuarioRepository.cs",
+              "DocumentMoniker": "E:\\MiApp\\Repositories\\UsuarioRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\UsuarioRepository.cs",
+              "ToolTip": "E:\\MiApp\\Repositories\\UsuarioRepository.cs",
+              "RelativeToolTip": "Repositories\\UsuarioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T19:20:37.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.g.i.cs",
+              "DocumentMoniker": "E:\\MiApp\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "RelativeDocumentMoniker": "obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "ToolTip": "E:\\MiApp\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "RelativeToolTip": "obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T19:32:49.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DepartamentoVentas.cs",
+              "DocumentMoniker": "E:\\MiApp\\Models\\DepartamentoVentas.cs",
+              "RelativeDocumentMoniker": "Models\\DepartamentoVentas.cs",
+              "ToolTip": "E:\\MiApp\\Models\\DepartamentoVentas.cs",
+              "RelativeToolTip": "Models\\DepartamentoVentas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T18:53:36.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DetallePago.cs",
+              "DocumentMoniker": "E:\\MiApp\\Models\\DetallePago.cs",
+              "RelativeDocumentMoniker": "Models\\DetallePago.cs",
+              "ToolTip": "E:\\MiApp\\Models\\DetallePago.cs",
+              "RelativeToolTip": "Models\\DetallePago.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T18:24:38.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Tienda.cs",
+              "DocumentMoniker": "E:\\MiApp\\Models\\Tienda.cs",
+              "RelativeDocumentMoniker": "Models\\Tienda.cs",
+              "ToolTip": "E:\\MiApp\\Models\\Tienda.cs",
+              "RelativeToolTip": "Models\\Tienda.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T18:20:51.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "E:\\MiApp\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "Models\\Usuario.cs",
+              "ToolTip": "E:\\MiApp\\Models\\Usuario.cs",
+              "RelativeToolTip": "Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T17:56:15.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Provincia.cs",
+              "DocumentMoniker": "E:\\MiApp\\Models\\Provincia.cs",
+              "RelativeDocumentMoniker": "Models\\Provincia.cs",
+              "ToolTip": "E:\\MiApp\\Models\\Provincia.cs",
+              "RelativeToolTip": "Models\\Provincia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T17:56:10.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Distrito.cs",
+              "DocumentMoniker": "E:\\MiApp\\Models\\Distrito.cs",
+              "RelativeDocumentMoniker": "Models\\Distrito.cs",
+              "ToolTip": "E:\\MiApp\\Models\\Distrito.cs",
+              "RelativeToolTip": "Models\\Distrito.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T17:56:04.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Despacho.cs",
+              "DocumentMoniker": "E:\\MiApp\\Models\\Despacho.cs",
+              "RelativeDocumentMoniker": "Models\\Despacho.cs",
+              "ToolTip": "E:\\MiApp\\Models\\Despacho.cs",
+              "RelativeToolTip": "Models\\Despacho.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T17:55:47.221Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
